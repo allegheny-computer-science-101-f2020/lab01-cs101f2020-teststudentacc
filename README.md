@@ -23,7 +23,6 @@
 * [Problems](problems-with-the-conduct-guide)
 
 ## Summary
-
 This repository contains the template for the code of conduct in [Computer Science 101 Fall
 2020](https://cs.allegheny.edu/sites/jjumadinova/teaching/101). The class will
 collaboratively improve and add missing details to the template to develop a
